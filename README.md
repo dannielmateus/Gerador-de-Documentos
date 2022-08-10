@@ -6,9 +6,9 @@ Primeiramente, o código pedirá os nomes do documento base e do csv. Após isso
 
 Tags geradas: 
 
-jxsxuxqxdx 
-yxqxuxfxix 
-qxwxoxbxgx 
+jxsxuxqxdx               
+yxqxuxfxix               
+qxwxoxbxgx            
 
 Subtituição no documento: 
 
