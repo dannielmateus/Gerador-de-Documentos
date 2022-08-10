@@ -2,7 +2,7 @@
 Código para preencher documentos utilizando tags associadas a dados em um arquivo .csv
 
 Para utiliza-lo, basta ter um documento base não preenchido, e um documento csv no formato dado x pessoa, com os dados a serem preenchidos para cada pessoa.
-Primeiramente o código pedirá os nomes do documento base e do csv. Após isso, dará uma lista de tags para serem colocadas nos campos do documento. Por exemplo:
+Primeiramente, o código pedirá os nomes do documento base e do csv. Após isso, dará uma lista de tags para serem colocadas nos campos do documento. Por exemplo:
 
 Tags geradas: 
 
