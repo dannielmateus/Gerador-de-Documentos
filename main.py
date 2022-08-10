@@ -27,7 +27,12 @@ with open(csv_name, newline = "", mode="r", encoding="utf-8") as csvfile:
     lines = list(csvreader) 
     csvfile.close()
 
-num_tags = input("Escolha quantos campos devem ser preenchidos: ")
+def find_num_tags(lines):
+    max_lines = []
+    for line in lines:
+        max_lines.append(len(line))
+    return max(max_lines)
+num_tags = find_num_tags(lines)
 
 def create_tags(num_tags):
     tags = []
